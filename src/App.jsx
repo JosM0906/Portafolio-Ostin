@@ -276,7 +276,7 @@ export default function PortfolioOstin() {
               subtitle="Conocimientos técnicos y fortalezas personales que respaldan la gestión comercial y administrativa."
             />
 
-            <div className="mx-auto max-w-5xl space-y-8">
+            <div className="mx-auto max-w-8xl space-y-8">
               <div className="rounded-[2rem] border border-slate-200 bg-white p-8 shadow-sm">
                 <h3 className="text-2xl font-bold text-[#0F172A]">
                   Habilidades técnicas
